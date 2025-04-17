@@ -1,1 +1,4 @@
-const a =  1;
+const a = 4;
+
+
+console.log(a);
